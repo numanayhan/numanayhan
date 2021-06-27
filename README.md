@@ -1,9 +1,6 @@
-### Hi there 👋
-
-<!--
-**numanayhan/numanayhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Override Me 👋
+  
+Some idea share with you :
 
 - 🔭 I’m currently working on Netlog 
 - 🌱 I’m currently learning Swift & Java & C#
@@ -11,4 +8,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with open course community
  
 - 📫 How to reach me: numanayhan@yandex.com
--->
+ 
