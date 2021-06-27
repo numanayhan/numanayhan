@@ -11,5 +11,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with open course community
  
 - 📫 How to reach me: numanayhan@yandex.com
- 
 -->
