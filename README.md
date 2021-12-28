@@ -5,10 +5,7 @@
 
 Some idea share with you :
 
-- 🔭 I’m currently working on Own Projects 
-- 🌱 I’m currently learning Swift & Java  
-- 👯 I’m looking to collaborate on Panda Studio 
-- 🤔 I’m looking for help with open course community
+- 🔭 I’m currently working Swift
  
 - 📫 How to reach me: numanayhan@yandex.com
 
