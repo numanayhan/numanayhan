@@ -1,8 +1,7 @@
  # Merhaba, I am Numan👋 
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=numanayhan" alt="numanayhan" /> </p>
-
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=numanayhan&show_icons=true">
+ 
 
 
 
